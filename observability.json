@@ -5,8 +5,8 @@
   "repo": "irina-capatina-org/jactiv-791-no-po-invoice-chaser",
   "stages": {
     "Analysis": {
-      "status": "in-review",
-      "updatedAt": "2026-09-23T23:01:58Z",
+      "status": "done",
+      "updatedAt": "2026-09-23T23:03:26Z",
       "task": "PDD ready for review",
       "run": 35931274895,
       "decidedBy": "human",
